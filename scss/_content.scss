@@ -1,0 +1,55 @@
+body{
+	background-color: #9FCBF8;
+	background-image: url(../img/b1.jpg);
+	background-attachment: fixed;
+	background-repeat:repeat;
+}
+
+h1{
+	color: #11296b;
+	background-color: #fdc500;	
+	text-align: center;
+	font-size: 1.5rem;
+	height: auto;
+	padding: 4px;
+}
+
+h2{
+	font-size: 1.3rem;
+	height: auto;
+	padding: 4px;
+}
+
+
+section{   
+		article{
+				display: flex;
+				flex-direction: column;
+        		background-color: #023e7d;
+       	 		color: white;
+        }
+}
+
+
+aside{ 
+	  article{
+    			background-color: #001233;
+    			color: white;
+      }
+}	
+
+
+main{   
+ 	article{
+    		background-color: #001233;
+    		color: white;
+    }		
+}	
+
+
+
+.logoSodi:hover{
+		transform: rotate(-360deg);
+		transition: transform 3s;	
+}
+    

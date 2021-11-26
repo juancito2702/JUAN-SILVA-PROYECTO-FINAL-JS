@@ -1,0 +1,12 @@
+//THEME DE BOOTSTRAP (Modificación del Mapa de Colores)
+@import "themebts";
+
+// Mis Imports a main.scss
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "_reset";
+@import "_commons";
+@import "_typography";
+@import "_nav";
+@import "_content";
+@import "_footer";
+

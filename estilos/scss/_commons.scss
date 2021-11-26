@@ -1,0 +1,46 @@
+.img-heroe{
+  height: auto;
+} 
+
+.transition{
+    width: 200px;
+    transition: width 2s;
+  }
+
+  .transition:hover{
+    width: 350px;
+    cursor: pointer;
+  }
+
+  .scale1:hover{
+    transform: scaleY(1.1);
+    cursor: pointer;
+    transition: transform 1s;
+  }
+
+
+  .scale2:hover{
+    transform: scaleX(1.1);
+    cursor: pointer;
+    transition: transform 1s;
+  }
+
+  .rotate:hover{
+    transform: rotateY(-80deg);
+    cursor: pointer;
+    transition: transform 4s;
+  }
+  	
+
+$colors:(
+  verde:#9BFA91, 
+  azul:#0E53F1, 
+  rojo:#DB083A, 
+  gris:#7E8082);
+
+
+@each $name-color, $bg-color in $colors{
+   .circle-#{$name-color}{
+    background-color:$bg-color;
+   }
+}   

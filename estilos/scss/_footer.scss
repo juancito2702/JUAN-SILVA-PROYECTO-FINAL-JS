@@ -1,0 +1,55 @@
+footer{
+	background-color: #0F4D16;
+	text-align: center;
+    font-size: 1.3rem;		
+}
+
+footer{
+	 	img{
+			position: fixed;
+			right: 20px;
+			bottom: 30px;
+			width: 70px;
+			height: 70px;
+		}
+}	
+
+footer{
+	 	img:hover{
+					transform: rotate(-360deg);
+					transition: transform 1s;	
+    	}
+}
+
+
+footer{
+		div{
+			img{
+			justify-content: center;
+			right: 80px;
+			}
+		}
+}
+
+
+.conteinerFooter{
+	background: #0F4D16;
+	display: flex;
+	justify-content: space-between;
+	padding: 5px;
+}
+
+.copyrigth{
+	font-size: 1rem;
+	text-decoration: none;
+	color: white;
+}
+
+.autor{
+	font-size: 1rem;
+	text-decoration: none;
+	color: white;
+}
+
+
+

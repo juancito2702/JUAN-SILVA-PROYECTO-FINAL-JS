@@ -1,0 +1,57 @@
+[{
+        "id": 1,
+        "categoria": "sika",
+        "descripcion": "Sikaflex 118.",
+        "precio": 31,
+        "imagen": "img/sika118.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "categoria": "soudal",
+        "descripcion": "Soudal Fixx All.",
+        "precio": 41,
+        "imagen": "img/fixAll.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "categoria": "topex",
+        "descripcion": "Pegamento Topex.",
+        "precio": 120,
+        "imagen": "img/topexPega.png",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "categoria": "espuma",
+        "descripcion": "Espuma sikaboom",
+        "precio": 97,
+        "imagen": "img/sikaBoom.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 5,
+        "categoria": "sika",
+        "descripcion": "Sika Cristal Clear",
+        "precio": 42,
+        "imagen": "img/sikaCrystal.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 6,
+        "categoria": "sika",
+        "descripcion": "Sanisil AC Blanco",
+        "precio": 27,
+        "imagen": "img/sanisilAC.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 7,
+        "categoria": "sika",
+        "descripcion": "Sikaflex 227 Automotriz",
+        "precio": 99,
+        "imagen": "img/sika227.jpg",
+        "cantidad": 1
+    }
+]
